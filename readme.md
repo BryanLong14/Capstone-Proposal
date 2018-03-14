@@ -12,13 +12,11 @@
 * _Can I Eat That?_ categorizes and references food items according to common dietary restrictions, food allergies, and food intolerances. The app allows users to quickly create their own list and then reference that list when shopping. It utilizes the [Barcode API](https://www.programmableweb.com/api/can-i-eat-it-barcode) which includes a database of commercially available food items, their ingredients, and their barcodes.     
 
 ## Map of the User Experience
-* User selects "New Profile" or “Existing Profile”
-⋅⋅* Profile: Name, id, allergens/intolerances 
-User chooses allergens or selects them from prepopulated list (boolean values; likes: Vegetarian, Paleo, Vegan, AIP will deselect several food at once)
-This Creates a Profile
-User is prompted to search for food or scan barcode.
-Search: User types in name of food item see if item’s ingredients contain allergens from selected list
-Scan: User scans barcode of item to be able to tell if item contains allergens
+* User opens app and selects "New Profile" or “Existing Profile”
+* User selects foods to avoid from prepopulated list (Vegetarian, Paleo, Vegan, AIP). Alternatively, users choose custom foods to avoid based on allergies or intolerances.  
+* User is then prompted to search for a food item or scan a barcode.
+  * Search: User types in name of food item see if item’s ingredients contain allergens from selected list
+  * Scan: User scans barcode of item to be able to tell if item contains allergens
 React Native Barcode Scanner - stretch goal
 Product health information is displayed
 User can save searches, create meals, etc (Stretch goals)
