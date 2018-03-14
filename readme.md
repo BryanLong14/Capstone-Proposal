@@ -29,15 +29,15 @@
 * [Barcode API](https://www.programmableweb.com/api/can-i-eat-it-barcode)
 
 ## Prioritized Feature list
-* Seeded database of commonly restricted food from diets, allergies, and intolerances.
-* Seeded database of users
+1 Seeded database of commonly restricted food from diets, allergies, and intolerances.
+2 Seeded database of users
   * Profile {Name:, id:, allergens/intolerances:}
   * CRUD functionality
-* Frontend allows user to create profile
-* Frontend allows user to add foods to avoid
-* Queries allow users to type a food name into the search bar, then the Barcode API matches that food name to the matching ingredient list in the database, and checks for matches on the users "Foods to Avoid" list
-* Database returns nutritional information for food product, which is displayed on the frontend
-* Barcode Scanner allows users to scan a barcode as opposed to typing in the product name (stretch goal)
+3 Frontend allows user to create profile
+4 Frontend allows user to add foods to avoid
+5 Queries allow users to type a food name into the search bar, then the Barcode API matches that food name to the matching ingredient list in the database, and checks for matches on the users "Foods to Avoid" list
+6 Database returns nutritional information for food product, which is displayed on the frontend
+6 Barcode Scanner allows users to scan a barcode as opposed to typing in the product name (stretch goal)
 
 
 ## Resources
