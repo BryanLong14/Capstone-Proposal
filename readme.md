@@ -9,7 +9,7 @@
 * Currently, these people do not have access to a tool that can easily tell them if allergens are contained in food.
 
 ## How Will This Project Solve The Problem?
-* _Can I Eat That?_ categorizes and references food items according to common dietary restrictions, food allergies, and food intolerances. The app allows users to quickly create their own list and then reference that list when shopping. It utilizes (Food API)[https://www.programmableweb.com/api/can-i-eat-it-barcode] which is a database of commercially available food items and their ingredients.     
+* _Can I Eat That?_ categorizes and references food items according to common dietary restrictions, food allergies, and food intolerances. The app allows users to quickly create their own list and then reference that list when shopping. It utilizes [Food API](https://www.programmableweb.com/api/can-i-eat-it-barcode) which is a database of commercially available food items and their ingredients.     
 
 ## Map of the User Experience
 
