@@ -30,9 +30,9 @@
 
 ## Prioritized Feature list
 1. Seeded database of commonly restricted food from diets, allergies, and intolerances.
-2. Seeded database of users
-  * Profile {Name:, id:, allergens/intolerances:}
-  * CRUD functionality
+2. Seeded database of users:
+    * Profile {Name:, id:, allergens/intolerances:}
+    * CRUD functionality
 3. Frontend allows user to create profile
 4. Frontend allows user to add foods to avoid
 5. Queries allow users to type a food name into the search bar, then the Barcode API matches that food name to the matching ingredient list in the database, and checks for matches on the users "Foods to Avoid" list
