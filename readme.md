@@ -16,4 +16,4 @@ With continually emerging science in agriculture and health, people are realizin
 ## Prioritized Feature list
 
 
-[^1] National Institute of Allergy and Infectious Diseases, National Institutes of Health. Report of the NIH Expert Panel on Food Allergy Research. 2006.
+[^1][^1]National Institute of Allergy and Infectious Diseases, National Institutes of Health. Report of the NIH Expert Panel on Food Allergy Research. 2006.
