@@ -35,9 +35,9 @@
   * CRUD functionality
 * Frontend allows user to create profile
 * Frontend allows user to add foods to avoid
-* Queries allow users to type a food name into the search bar, then the Barcode API matches that food name to an ingredient list in the database, and checks for matches on the users "Foods to Avoid" list
+* Queries allow users to type a food name into the search bar, then the Barcode API matches that food name to the matching ingredient list in the database, and checks for matches on the users "Foods to Avoid" list
 * Database returns nutritional information for food product, which is displayed on the frontend
-* Barcode Scanner allows users to scan a barcode as opposed to typing in the product name
+* Barcode Scanner allows users to scan a barcode as opposed to typing in the product name (stretch goal)
 
 
 ## Resources
