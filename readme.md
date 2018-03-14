@@ -25,7 +25,7 @@
 * Knex.js, Psql, PostgreSQL
 * Node.js
 * React Native
-* React Native Barcode Scanner (stretch goal)
+* [React Native Barcode Scanner (stretch goal)](https://www.npmjs.com/package/react-native-barcode-scanner)
 * [Barcode API](https://www.programmableweb.com/api/can-i-eat-it-barcode)
 
 ## Prioritized Feature list
